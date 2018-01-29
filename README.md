@@ -2,7 +2,7 @@
 
 
 <h1>
-Desafio Frontend nº 1
+Desafio FrontEnd nº 1
 </h1>
 
 <h2>Sobre</h2>
